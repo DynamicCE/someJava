@@ -1,6 +1,5 @@
 package com.erkan.someJava.noteapp.model;
 
-import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
