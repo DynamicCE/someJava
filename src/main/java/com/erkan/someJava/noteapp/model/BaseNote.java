@@ -11,7 +11,6 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 
 @MappedSuperclass // base class , db tablosu olmaması için.
-@Entity
 @NoArgsConstructor
 @Getter
 public class BaseNote {
